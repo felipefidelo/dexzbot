@@ -1,0 +1,1 @@
+Tá querendo kibar oque hein? 🤨
