@@ -5,37 +5,37 @@ Termux whatsapp DEXZ BOT
 
 https://user-images.githubusercontent.com/80488760/127757802-ec465905-2a25-44b1-bf84-6fb1e15c2035.mp4
 
- $apt update 
+ $ apt update 
 
- $apt upgrade 
+ $ apt upgrade 
 
- $termux-setup-storage 
+ $ termux-setup-storage 
 
- $pkg install git
+ $ pkg install git
 
- $git clone https://github.com/felipefidelo/dexzbot
+ $ git clone https://github.com/felipefidelo/dexzbot
 
- $apt install nodejs 
+ $ apt install nodejs 
 
- $cd 
+ $ cd 
 
- $ls
+ $ ls
 
- $cd dexzbot
+ $ cd dexzbot
 
- $ls
+ $ ls
 
- $bash install.sh
+ $ bash install.sh
 
- $pkg install npm 
+ $ pkg install npm 
 
 ♤ativar com node index ou npm start ♤
 
 
 <<<<Comandos para o bot nunca cair e reconectar sozinho
 
- $npm i -g pm2 
+ $ npm i -g pm2 
 
- $pm2 start index.js
+ $ pm2 start index.js
 
- $pm2 monit
+ $ pm2 monit
