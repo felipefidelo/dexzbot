@@ -1,7 +1,7 @@
 Termux whatsapp DEXZ BOT
 
 # DexZ Bot 
-## Felipe Fidelo 
+## Um robô para whatsapp 🤖
 
 https://user-images.githubusercontent.com/80488760/127757802-ec465905-2a25-44b1-bf84-6fb1e15c2035.mp4
 
