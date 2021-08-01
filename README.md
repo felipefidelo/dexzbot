@@ -1,12 +1,7 @@
 Termux whatsapp DEXZ BOT
-╲╲╭━━━━╮
-╭╮┃▆┈┈▆┃╭╮
-┃╰┫▽▽▽┣╯┃
-    Fidelo
-╰━┫△△△┣━╯
-╲╲┃┈┈┈┈┃
-╲╲┃┈┏┓┈┃
-▔▔╰━╯╰━╯
+
+# DexZ Bot 
+## Felipe Fidelo 
 
 apt update 
 
